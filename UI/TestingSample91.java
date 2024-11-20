@@ -1,0 +1,1 @@
+Verify error handling during PayPal API failure
