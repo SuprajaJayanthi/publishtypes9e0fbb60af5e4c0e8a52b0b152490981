@@ -1,0 +1,1 @@
+Verify descriptions for each command-line option
