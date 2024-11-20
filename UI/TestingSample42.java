@@ -1,0 +1,1 @@
+Store Exchange Rate Record with Empty Fields
